@@ -32,6 +32,17 @@ pragmatic factors play a role beyond syntactic analysis.
 - `/data` — Persian compound dataset
 - `/notebook` — Computational analysis (coming soon)
 
+### Syntactic Tree Structures
+| File | Description |
+|------|-------------|
+| tree_01_Alighazarakhord.png | Sentence structure: Ali ate food |
+| tree_02_Ghazakhori.png | Argumental compound: غذاخوری (food-eating) |
+| tree_03_Khoshnevis.png | Modificational compound: خوش‌نویس (calligrapher) |
+| tree_04_Khoshnevisi.png | Modificational compound: خوش‌نویسی (calligraphy) |
+| tree_05_Incorporation.png | Incorporation structure |
+| tree_06_ghesse.png | Sentence: mother told stories every night |
+| tree_07_madrese.png | Sentence: he walks to school |
+
 ### Status
 Full paper in preparation.
 
