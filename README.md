@@ -1,6 +1,11 @@
 # Verb-Based Compounding in Persian
 ## A Distributed Morphology Analysis
 
+## Published Research
+**Nazari, G., Rahimian, J., & Mansouri, M. (2020).** An Investigation into the Incorporation in Persian based on Distributed Morphology. *Journal of Researches in Linguistics*, 12(2), 1-26.
+DOI: [10.22108/jrl.2020.117723.1368](https://doi.org/10.22108/jrl.2020.117723.1368)
+📄 [Download PDF](JRL_2020_Autumn_Vol_12_Issue_2_Pages_1-26.pdf)
+
 ### Overview
 This repository presents linguistic research on verb-based 
 compounding in Persian within the framework of Distributed 
